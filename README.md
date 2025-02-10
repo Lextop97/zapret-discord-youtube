@@ -82,12 +82,15 @@
 
 - Отключите функцию **TUN** (Tunneling) в настройках вашего VPN
 
+<<<<<<< Updated upstream
 ### Требуется цифровая подпись драйвера WinDivert (Windows 7)
 
 **Решения:**
 
 - См. [#1319](https://github.com/Flowseal/zapret-discord-youtube/issues/1319#issuecomment-2613979041)
 
+=======
+>>>>>>> Stashed changes
 ### При удалении с помощью [**`service_remove.bat`**](./service_remove.bat), WinDivert остается в службах
 
 **Решение:**
